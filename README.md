@@ -10,6 +10,7 @@ For now, the website allows the user to generate a random verse by clicking at t
 Possible implementations for the future:
 1 - Imput text for search queries. 
 2 - List all books and chapters and allow the user to load the information when selecting.
+3 - English language option.
 
 API used: https://www.abibliadigital.com.br/en
 
